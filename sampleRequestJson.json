@@ -1,0 +1,706 @@
+{
+    "pdpData": {
+        "id": 2471500,
+        "name": "FIDO DIDO Men Pink Solid Polo Collar Slim Fit T-shirt",
+        "mrp": 1449,
+        "manufacturer": "R R Lifestyles,#74/24, 1st Floor, 5th Cross, 5th Block, Rajajainagar, S.S.I Area, Banaglore-560010",
+        "countryOfOrigin": "USA",
+        "colours": null,
+        "baseColour": "Pink",
+        "brand": {
+            "uidx": "",
+            "name": "FIDO DIDO",
+            "image": "",
+            "bio": ""
+        },
+        "media": {
+            "videos": [],
+            "albums": [{
+                    "name": "default",
+                    "images": [{
+                            "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159758071-FIDO-DIDO-Men-Tshirts-9591518159757862-1.jpg",
+                            "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159758071-FIDO-DIDO-Men-Tshirts-9591518159757862-1.jpg",
+                            "host": null,
+                            "imageURL": "http://assets.myntassets.com/assets/images/2471500/2018/2/9/11518159758071-FIDO-DIDO-Men-Tshirts-9591518159757862-1.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159758046-FIDO-DIDO-Men-Tshirts-9591518159757862-2.jpg",
+                            "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159758046-FIDO-DIDO-Men-Tshirts-9591518159757862-2.jpg",
+                            "host": null,
+                            "imageURL": "http://assets.myntassets.com/assets/images/2471500/2018/2/9/11518159758046-FIDO-DIDO-Men-Tshirts-9591518159757862-2.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159758019-FIDO-DIDO-Men-Tshirts-9591518159757862-3.jpg",
+                            "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159758019-FIDO-DIDO-Men-Tshirts-9591518159757862-3.jpg",
+                            "host": null,
+                            "imageURL": "http://assets.myntassets.com/assets/images/2471500/2018/2/9/11518159758019-FIDO-DIDO-Men-Tshirts-9591518159757862-3.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159757994-FIDO-DIDO-Men-Tshirts-9591518159757862-4.jpg",
+                            "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159757994-FIDO-DIDO-Men-Tshirts-9591518159757862-4.jpg",
+                            "host": null,
+                            "imageURL": "http://assets.myntassets.com/assets/images/2471500/2018/2/9/11518159757994-FIDO-DIDO-Men-Tshirts-9591518159757862-4.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159757971-FIDO-DIDO-Men-Tshirts-9591518159757862-5.jpg",
+                            "secureSrc": "https://assets.myntassets.com/h_($height),q_($qualityPercentage),w_($width)/v1/assets/images/2471500/2018/2/9/11518159757971-FIDO-DIDO-Men-Tshirts-9591518159757862-5.jpg",
+                            "host": null,
+                            "imageURL": "http://assets.myntassets.com/assets/images/2471500/2018/2/9/11518159757971-FIDO-DIDO-Men-Tshirts-9591518159757862-5.jpg",
+                            "annotation": []
+                        }
+                    ]
+                },
+                {
+                    "name": "animatedImage",
+                    "images": []
+                }
+            ]
+        },
+        "sbpEnabled": false,
+        "sizechart": {
+            "sizeChartUrl": null,
+            "sizeRepresentationUrl": "http://assets.myntassets.com/assets/images/sizechart/2016/12/14/11481690842463-Tshirts_men.png"
+        },
+        "sizeRecoLazy": {
+            "actionType": "lazy",
+            "action": "/product/2471500/size/recommendation",
+            "sizeProfileAction": "/user/size-profiles?gender=male&articleType=Tshirts"
+        },
+        "analytics": {
+            "articleType": "Tshirts",
+            "subCategory": "Topwear",
+            "masterCategory": "Apparel",
+            "gender": "Men",
+            "brand": "FIDO DIDO",
+            "colourHexCode": null
+        },
+        "crossLinks": [{
+                "title": "More Tshirts by FIDO DIDO",
+                "url": "tshirts?f=Brand:FIDO DIDO::Gender:men"
+            },
+            {
+                "title": "More Pink Tshirts",
+                "url": "tshirts?f=Color:Pink_f1a9c4::Gender:men"
+            },
+            {
+                "title": "More Tshirts",
+                "url": "tshirts?f=Gender:men"
+            }
+        ],
+        "relatedStyles": null,
+        "disclaimerTitle": "",
+        "productDetails": [{
+                "type": null,
+                "content": null,
+                "title": "Product Details",
+                "description": "Pink solid T-shirt, has a polo collar, short sleeves."
+            },
+            {
+                "type": null,
+                "content": null,
+                "title": "SIZE & FIT",
+                "description": "Slim Fit<br>The model (height 6') is wearing a size M."
+            },
+            {
+                "type": null,
+                "content": null,
+                "title": "MATERIAL & CARE",
+                "description": "Cotton<br>Machine-wash."
+            }
+        ],
+        "preOrder": null,
+        "sizeChartDisclaimerText": "Garment Measurements in",
+        "tags": null,
+        "articleAttributes": {
+            "Body or Garment Size": "Garment Measurements in",
+            "Character": "NA",
+            "Fabric": "Cotton",
+            "Fabric 2": "NA",
+            "Fabric 3": "NA",
+            "Fit": "Slim Fit",
+            "Length": "Regular",
+            "Main Trend": "New Basics",
+            "Multipack Set": "Single",
+            "Neck": "Polo Collar",
+            "Number of Pockets": "NA",
+            "Occasion": "Casual",
+            "Pattern": "Solid",
+            "Pattern Coverage": "NA",
+            "Players": "NA",
+            "Print or Pattern Type": "Solid",
+            "Sleeve Length": "Short Sleeves",
+            "Sleeve Styling": "Regular Sleeves",
+            "Sport": "NA",
+            "Sport Team": "NA",
+            "Surface Styling": "NA",
+            "Technology": "NA",
+            "Wash Care": "Machine Wash"
+        },
+        "systemAttributes": [],
+        "ratings": {
+            "averageRating": 4.2299270072992705,
+            "totalCount": 548,
+            "isFastFashion": true,
+            "ratingInfo": [{
+                    "rating": 2,
+                    "count": 20
+                },
+                {
+                    "rating": 3,
+                    "count": 47
+                },
+                {
+                    "rating": 4,
+                    "count": 108
+                },
+                {
+                    "rating": 5,
+                    "count": 333
+                },
+                {
+                    "rating": 1,
+                    "count": 40
+                }
+            ],
+            "reviewInfo": {
+                "reviewsCount": 120,
+                "reviewsImageCount": 12,
+                "topReviews": [{
+                        "uidx": "60dcf20b.7781.4499.a576.03aadf4253d4390f624Ms2",
+                        "reviewId": "2df9b3b4-3c03-4836-8a57-b5793664c4f5",
+                        "userName": "Roop Girdhar",
+                        "reviewText": "Fit is nice and the fabric feels good on the skin!\nLength is a lil short but works for us!!\nOverall good product!!",
+                        "userRating": 5,
+                        "timestamp": "1583346792000",
+                        "upvotes": 56,
+                        "downvotes": 1,
+                        "reviewImages": [{
+                            "reviewId": "2df9b3b4-3c03-4836-8a57-b5793664c4f5",
+                            "imageUrl": "https://assets.myntassets.com/assets/images/2020/3/5/97ee1b33-2b9f-499f-8987-f5f246f0a9041583346791385-84386C3C-BA22-49DB-9E35-682F4DA70F02.jpeg",
+                            "aspectRatio": "1:2",
+                            "resolution": "1080X2160"
+                        }]
+                    },
+                    {
+                        "uidx": "454d97f1.97a5.4f43.8687.e2f322e82cf3w1hXsRQ1og",
+                        "reviewId": "7ff2dab8-5428-418e-b07b-cef7e76deab2",
+                        "userName": "manish",
+                        "reviewText": "4 out of 5 star\nProduct quality is good",
+                        "userRating": 4,
+                        "timestamp": "1584597310000",
+                        "upvotes": 7,
+                        "downvotes": 0,
+                        "reviewImages": [{
+                            "reviewId": "7ff2dab8-5428-418e-b07b-cef7e76deab2",
+                            "imageUrl": "https://assets.myntassets.com/assets/images/2020/3/19/e07813cd-9d07-4658-9348-2c476d2e215f1584597310113-image.jpg",
+                            "aspectRatio": "4:3",
+                            "resolution": "4032X3024"
+                        }]
+                    },
+                    {
+                        "uidx": "f90107df.7399.4b6f.9dd1.d1e63f984b826Gm0zv4Q2p",
+                        "reviewId": "8cb0a840-0704-4663-a858-4f4bdd8a266f",
+                        "userName": "Labani",
+                        "reviewText": "This polo shirt is really good and the material is too comfortable. I loved it a lot♥️",
+                        "userRating": 5,
+                        "timestamp": "1581064068000",
+                        "upvotes": 19,
+                        "downvotes": 4,
+                        "reviewImages": null
+                    }
+                ],
+                "topImageReviews": [{
+                        "uidx": "5e006521.092a.4097.ad32.3887aa3bb62b320AwtRfBO",
+                        "reviewId": "606c4bf2-4804-4b77-a6b0-30b67e44e3a3",
+                        "userName": "komala",
+                        "reviewText": "This product short for me",
+                        "userRating": 5,
+                        "timestamp": "1583911647000",
+                        "upvotes": 0,
+                        "downvotes": 1,
+                        "reviewImages": null
+                    },
+                    {
+                        "uidx": "c5ecd731.20c7.46bf.9e35.3d697bab1ab6A5poJmOlrO",
+                        "reviewId": "00a0882d-c70a-4528-b642-a8c18a6c4c51",
+                        "userName": "Anju Katewa",
+                        "reviewText": "Mind blowing",
+                        "userRating": 5,
+                        "timestamp": "1582719278000",
+                        "upvotes": 3,
+                        "downvotes": 0,
+                        "reviewImages": null
+                    }
+                ],
+                "topImages": [{
+                        "reviewId": "2df9b3b4-3c03-4836-8a57-b5793664c4f5",
+                        "imageUrl": "https://assets.myntassets.com/assets/images/2020/3/5/97ee1b33-2b9f-499f-8987-f5f246f0a9041583346791385-84386C3C-BA22-49DB-9E35-682F4DA70F02.jpeg",
+                        "aspectRatio": "1:2",
+                        "resolution": "1080X2160"
+                    },
+                    {
+                        "reviewId": "7ff2dab8-5428-418e-b07b-cef7e76deab2",
+                        "imageUrl": "https://assets.myntassets.com/assets/images/2020/3/19/e07813cd-9d07-4658-9348-2c476d2e215f1584597310113-image.jpg",
+                        "aspectRatio": "4:3",
+                        "resolution": "4032X3024"
+                    },
+                    {
+                        "reviewId": "606c4bf2-4804-4b77-a6b0-30b67e44e3a3",
+                        "imageUrl": "https://assets.myntassets.com/assets/images/2020/3/11/2df48a38-d371-4b95-917d-2017f888b0761583911646359-temp_photo.jpg",
+                        "aspectRatio": "3:4",
+                        "resolution": "3000X4000"
+                    },
+                    {
+                        "reviewId": "00a0882d-c70a-4528-b642-a8c18a6c4c51",
+                        "imageUrl": "https://assets.myntassets.com/assets/images/2020/2/26/b99287b1-056c-44bc-ac22-fa6e5ee7455f1582719277592-temp_photo.jpg",
+                        "aspectRatio": "4:3",
+                        "resolution": "4032X3024"
+                    }
+                ]
+            }
+        },
+        "urgency": [{
+                "value": "0",
+                "type": "PURCHASED",
+                "ptile": 0
+            },
+            {
+                "value": "2.9E+02",
+                "type": "CART",
+                "ptile": 99.98927220770892
+            },
+            {
+                "value": "4.843E+03",
+                "type": "WISHLIST",
+                "ptile": 99.98479300869997
+            },
+            {
+                "value": "6.88E+02",
+                "type": "PDP",
+                "ptile": 99.93892194447281
+            }
+        ],
+        "catalogAttributes": {
+            "catalogDate": "1518171633000",
+            "season": "summer",
+            "year": "2017"
+        },
+        "productContentGroupEntries": [{
+            "title": "",
+            "type": "DETAILS",
+            "attributes": [{
+                    "attributeName": "Product Details",
+                    "attributeType": "STRING",
+                    "value": "Pink solid T-shirt, has a polo collar, short sleeves."
+                },
+                {
+                    "attributeName": "Size & Fit",
+                    "attributeType": "STRING",
+                    "value": "Slim Fit<br>The model (height 6') is wearing a size M."
+                },
+                {
+                    "attributeName": "Material & Care",
+                    "attributeType": "STRING",
+                    "value": "Cotton<br>Machine-wash."
+                },
+                {
+                    "attributeName": "Style Note",
+                    "attributeType": "STRING",
+                    "value": "This top-notch T-shirt from FIDO DIDO will have you looking fresh all year long.  When you're attending a concert, rock this pink piece with dark denims, leather boots, and a classic leather jacket."
+                }
+            ]
+        }],
+        "shoppableLooks": {
+            "src": "http://assets.myntassets.com/assets/images/2471500/2018/2/9/11518159757971-FIDO-DIDO-Men-Tshirts-9591518159757862-5.jpg",
+            "data": [{
+                    "type": "PRIMARY",
+                    "xcoordinate": 61,
+                    "ycoordinate": 21,
+                    "actionUrl": "/v1/shoppableLooks/style/2471500?tp_x=61&tp_y=21&type=PRIMARY"
+                },
+                {
+                    "type": "PRIMARY",
+                    "xcoordinate": 61,
+                    "ycoordinate": 21,
+                    "actionUrl": "/v1/shoppableLooks/style/2471500?tp_x=61&tp_y=21&type=PRIMARY"
+                },
+                {
+                    "type": "PRIMARY",
+                    "xcoordinate": 61,
+                    "ycoordinate": 21,
+                    "actionUrl": "/v1/shoppableLooks/style/2471500?tp_x=61&tp_y=21&type=PRIMARY"
+                },
+                {
+                    "type": "SECONDARY",
+                    "xcoordinate": 54,
+                    "ycoordinate": 50,
+                    "actionUrl": "/v1/shoppableLooks/style/2471500?tp_x=54&tp_y=50&type=SECONDARY"
+                },
+                {
+                    "type": "SECONDARY",
+                    "xcoordinate": 54,
+                    "ycoordinate": 50,
+                    "actionUrl": "/v1/shoppableLooks/style/2471500?tp_x=54&tp_y=50&type=SECONDARY"
+                }
+            ]
+        },
+        "descriptors": [{
+                "title": "description",
+                "description": "Pink solid T-shirt, has a polo collar, short sleeves."
+            },
+            {
+                "title": "size_fit_desc",
+                "description": "Slim Fit<br>The model (height 6') is wearing a size M."
+            },
+            {
+                "title": "style_note",
+                "description": "This top-notch T-shirt from FIDO DIDO will have you looking fresh all year long.  When you're attending a concert, rock this pink piece with dark denims, leather boots, and a classic leather jacket."
+            },
+            {
+                "title": "materials_care_desc",
+                "description": "Cotton<br>Machine-wash."
+            }
+        ],
+        "flags": {
+            "isExchangeable": true,
+            "isReturnable": true,
+            "openBoxPickupEnabled": true,
+            "tryAndBuyEnabled": true,
+            "isLarge": false,
+            "isHazmat": false,
+            "isFragile": false,
+            "isJewellery": false,
+            "outOfStock": false,
+            "codEnabled": true,
+            "globalStore": false,
+            "loyaltyPointsEnabled": false,
+            "emiEnabled": true,
+            "chatEnabled": false,
+            "measurementModeEnabled": false,
+            "sampleModeEnabled": false,
+            "disableBuyButton": false
+        },
+        "earlyBirdOffer": null,
+        "serviceability": {
+            "launchDate": "",
+            "returnPeriod": 30,
+            "descriptors": [
+                "Pay on delivery might be available",
+                "Easy 30 days returns and exchanges",
+                "Try & Buy might be available"
+            ],
+            "procurementTimeInDays": {
+                "7004": 4
+            }
+        },
+        "buyButtonSellerOrder": [{
+                "skuId": 15617365,
+                "sellerPartnerId": 7004
+            },
+            {
+                "skuId": 15617367,
+                "sellerPartnerId": 7004
+            },
+            {
+                "skuId": 15617376,
+                "sellerPartnerId": 7004
+            },
+            {
+                "skuId": 15617369,
+                "sellerPartnerId": 7004
+            }
+        ],
+        "sellers": [{
+            "sellerPartnerId": 7004,
+            "sellerName": "R.R.LIFESTYLES"
+        }],
+        "sizes": [{
+                "skuId": 15617365,
+                "styleId": 2471500,
+                "action": "/product/2471500/related/S?co=1",
+                "label": "S",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [{
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "38.0",
+                        "minValue": "38.0",
+                        "maxValue": "38.0",
+                        "unit": "Inches",
+                        "displayText": "38.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "27.5",
+                        "minValue": "27.5",
+                        "maxValue": "27.5",
+                        "unit": "Inches",
+                        "displayText": "27.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "16.0",
+                        "minValue": "16.0",
+                        "maxValue": "16.0",
+                        "unit": "Inches",
+                        "displayText": "16.0in"
+                    }
+                ],
+                "allSizesList": [{
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "S",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "38",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [{
+                    "mrp": 1449,
+                    "sellerPartnerId": 7004,
+                    "availableCount": 668,
+                    "sellableInventoryCount": 668,
+                    "warehouses": [
+                        "1230"
+                    ],
+                    "supplyType": "ON_HAND",
+                    "discountId": "2471500:19778290",
+                    "discountedPrice": 579
+                }]
+            },
+            {
+                "skuId": 15617367,
+                "styleId": 2471500,
+                "action": "/product/2471500/related/M?co=1",
+                "label": "M",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [{
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "40.0",
+                        "minValue": "40.0",
+                        "maxValue": "40.0",
+                        "unit": "Inches",
+                        "displayText": "40.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "28.5",
+                        "minValue": "28.5",
+                        "maxValue": "28.5",
+                        "unit": "Inches",
+                        "displayText": "28.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "16.75",
+                        "minValue": "16.75",
+                        "maxValue": "16.75",
+                        "unit": "Inches",
+                        "displayText": "16.75in"
+                    }
+                ],
+                "allSizesList": [{
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "M",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "40",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [{
+                    "mrp": 1449,
+                    "sellerPartnerId": 7004,
+                    "availableCount": 1013,
+                    "sellableInventoryCount": 1013,
+                    "warehouses": [
+                        "1230"
+                    ],
+                    "supplyType": "ON_HAND",
+                    "discountId": "2471500:19778290",
+                    "discountedPrice": 579
+                }]
+            },
+            {
+                "skuId": 15617369,
+                "styleId": 2471500,
+                "action": "/product/2471500/related/L?co=1",
+                "label": "L",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [{
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "42.0",
+                        "minValue": "42.0",
+                        "maxValue": "42.0",
+                        "unit": "Inches",
+                        "displayText": "42.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "29.5",
+                        "minValue": "29.5",
+                        "maxValue": "29.5",
+                        "unit": "Inches",
+                        "displayText": "29.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "17.5",
+                        "minValue": "17.5",
+                        "maxValue": "17.5",
+                        "unit": "Inches",
+                        "displayText": "17.5in"
+                    }
+                ],
+                "allSizesList": [{
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "L",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "42",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [{
+                    "mrp": 1449,
+                    "sellerPartnerId": 7004,
+                    "availableCount": 1030,
+                    "sellableInventoryCount": 1030,
+                    "warehouses": [
+                        "1230"
+                    ],
+                    "supplyType": "ON_HAND",
+                    "discountId": "2471500:19778290",
+                    "discountedPrice": 579
+                }]
+            },
+            {
+                "skuId": 15617376,
+                "styleId": 2471500,
+                "action": "/product/2471500/related/XL?co=1",
+                "label": "XL",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [{
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "44.0",
+                        "minValue": "44.0",
+                        "maxValue": "44.0",
+                        "unit": "Inches",
+                        "displayText": "44.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "30.5",
+                        "minValue": "30.5",
+                        "maxValue": "30.5",
+                        "unit": "Inches",
+                        "displayText": "30.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "18.25",
+                        "minValue": "18.25",
+                        "maxValue": "18.25",
+                        "unit": "Inches",
+                        "displayText": "18.25in"
+                    }
+                ],
+                "allSizesList": [{
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "XL",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "44",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [{
+                    "mrp": 1449,
+                    "sellerPartnerId": 7004,
+                    "availableCount": 1071,
+                    "sellableInventoryCount": 1071,
+                    "warehouses": [
+                        "1230"
+                    ],
+                    "supplyType": "ON_HAND",
+                    "discountId": "2471500:19778290",
+                    "discountedPrice": 579
+                }]
+            }
+        ],
+        "discounts": [{
+            "type": 1,
+            "freeItem": false,
+            "label": "(60% OFF)",
+            "discountText": "",
+            "timerStart": "0",
+            "timerEnd": "1590949740",
+            "discountPercent": 60,
+            "offer": "",
+            "discountId": "2471500:19778290",
+            "heading": null,
+            "description": null,
+            "link": null,
+            "freeItemImage": null
+        }],
+        "offers": [{
+            "type": "EMI",
+            "title": "EMI option available",
+            "description": "",
+            "action": "/faqs",
+            "image": null
+        }],
+        "bundledSkus": null,
+        "richPdp": null,
+        "landingPageUrl": "tshirts/fido-dido/fido-dido-men-pink-solid-polo-collar-slim-fit-t-shirt/2471500/buy"
+    },
+    "pageName": "Pdp",
+    "atsa": []
+}
